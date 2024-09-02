@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<"Hello Git"<<endl;
+    cout<<"Hello Update branch"<<endl;
     cout<<"Hour"<<endl;
     return 0;
 }
